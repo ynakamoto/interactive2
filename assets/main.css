@@ -5,18 +5,18 @@ a{
 }
 
 body {
-    background-color: orange;
+    background-color: darkgray;
 }
 
 
 #exercises {
-	color:grey;
+	color:white;
 	font-size: 10px;
 	font-family: helvetica;
 }
 
 #projects {
-	color:grey;
+	color:white;
 	font-size: 10px;
 	font-family: helvetica;
 }
