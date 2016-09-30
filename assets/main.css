@@ -1,5 +1,5 @@
 a{
-	color:grey;
+	color:gray;
 	font-size: 20px;
 	font-family: helvetica;
 }
@@ -27,3 +27,10 @@ color:white;
 	font-family: helvetica;
 
 }
+h1 {
+color:white;
+	font-size: 10px;
+	font-family: helvetica;
+
+}
+
