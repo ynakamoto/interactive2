@@ -4,15 +4,216 @@
 
 body {
 	background: white;
+	width: 100%;
+	height: 4000px;
+	margin-top: 170px;
 }
+
+
+.scanlines {
+	top: 0px;
+	left: 0px;
+	position: fixed;
+}
+
+
+.phrase{
+	top: 14px;
+	left: 10px;
+	position: absolute;
+}
+
+
+.hello {
+	top:150px;
+	left: 70px;
+	position: absolute;
+}
+
+.there {
+	top:56px;
+	left: 70px;
+	position: absolute;
+}
+
+.mynameis {
+	top: 200px;
+	left: 70px;
+	position: absolute;
+}
+
+.yvettenakamoto {
+	top:206px;
+	left: 70px;
+	position: absolute;
+}
+
+
+.this {
+	top: 350px;
+	left: 70px;
+	position: absolute;
+}
+
+.ismy {
+	top: 356px;
+	left: 70px;
+	position: absolute;
+}
+
+
+.between {
+	top: 500px;
+	left: 70px;
+	position: absolute;
+}
+
+.thelines {
+	top: 506px;
+	left: 70px;
+	position: absolute;
+}
+
+.interactivetwo {
+	top: 650px;
+	left: 70px;
+	position: absolute;
+}
+
+.typeface {
+	top: 656px;
+	left: 70px;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+.noone {
+	top: 60px;
+	left: 0px;
+	position: absolute;
+
+}
+
+
+
 
 
 
 
 .letter {
-	margin-left: 50px;
+	margin-left: 20px;
 	margin-bottom: 20px;
 }
+
+
+
+.line {
+	margin-top: 6px;
+}
+
+
+.screen {
+	position: relative;
+	margin-left: -80px;
+	width: 1800px;
+	height: 6px;
+	background: black;
+}
+
+
+
+
+
+
+.short {
+	position: relative;
+	width: 40px;
+	height: 6px;
+	background: black;
+}
+
+.medium {
+	position: relative;
+	margin-left: 0px;
+	width: 90px;
+	height: 6px;
+	background: black;
+	}
+
+				.mediumleft {
+				position: relative;
+				margin-left: -20px;
+				width: 60px;
+				height: 6px;
+				background: black;
+				}
+
+.long{
+	position: relative;
+	width: 120px;
+	height: 6px;
+	background: black;
+}
+
+.half{
+	position: relative;
+	margin-left: 10px;
+	width: 40px;
+	height: 6px;
+	background: black;
+}
+
+.half2{
+	position: relative;
+	margin-left: 25px;
+	width: 40px;
+	height: 6px;
+	background: black;
+}
+
+				.halfleft{
+				position: relative;
+				margin-left: -10px;
+				width: 40px;
+				height: 6px;
+				background: black;
+				}
+
+				.halfleft2{
+				position: relative;
+				margin-left: -25px;
+				width: 40px;
+				height: 6px;
+				background: black;
+				}		
+
+.shortcenter{
+	position: relative;
+	margin-left: 40px;
+	width: 40px;
+	height: 6px;
+	background: black;
+}
+
+
+
+
+.left {
+	position: absolute;
+}
+.right {
+	position: absolute;
+	left: 80px;
+}
+
+
+
 
 .line {
 	margin-top: 6px;
@@ -98,6 +299,20 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .nshort1 {
 	position: relative;
 	margin-left: 0px;
@@ -163,13 +378,19 @@ body {
 }
 
 
-.left {
-	position: absolute;
-}
-.right {
-	position: absolute;
-	left: 80px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .a {
 	position: relative;
@@ -380,6 +601,16 @@ body {
 	float: left;
 }
 
+.zero {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+
 .one {
 	position: relative;
 	background: none;
@@ -395,6 +626,100 @@ body {
 	height: 120px;
 	float: left;
 }
+
+.three {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.four {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.five {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.six {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.seven {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.eight {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.nine {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+.mark {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.question {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.period {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.space {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+
+
 
 
 

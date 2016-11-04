@@ -4,6 +4,16 @@
 
 body {
 	background: white;
+	width: 100%;
+	height: 4000px;
+	margin-top: 170px;
+}
+
+
+.scanlines {
+	top: 0px;
+	left: 0px;
+	position: fixed;
 }
 
 
@@ -13,8 +23,87 @@ body {
 	position: absolute;
 }
 
+
+.hello {
+	top:170px;
+	left: 70px;
+	position: absolute;
+}
+
+.there {
+	top:176px;
+	left: 70px;
+	position: absolute;
+}
+
+.iyvette {
+	top: 310px;
+	left: 70px;
+	position: absolute;
+}
+
+.am {
+	top: 316px;
+	left: 70px;
+	position: absolute;
+}
+
+
+
+.yvette {
+	top: 450px;
+	left: 70px;
+	position: absolute;
+}
+
+.nakamoto {
+	top: 456px;
+	left: 70px;
+	position: absolute;
+}
+
+
+.this {
+	top: 600px;
+	left: 70px;
+	position: absolute;
+}
+
+.ismy {
+	top: 606px;
+	left: 70px;
+	position: absolute;
+}
+
+
 .between {
-	top: 8px;
+	top: 750px;
+	left: 70px;
+	position: absolute;
+}
+
+.thelines {
+	top: 756px;
+	left: 70px;
+	position: absolute;
+}
+
+
+.css {
+	top: 900px;
+	left: 70px;
+	position: absolute;
+} 
+
+.typeface {
+	top: 906px;
+	left: 70px;
+	position: absolute;
+}
+
+
+.interactivetwo {
+	top: 2000px;
 	left: 70px;
 	position: absolute;
 }
@@ -22,12 +111,8 @@ body {
 
 
 
-.scanlines {
-	top: 100px;
-	left: 0px;
-	position: absolute;
 
-}
+
 
 
 
@@ -47,6 +132,7 @@ body {
 .letter {
 	margin-left: 10px;
 	margin-bottom: 20px;
+	color: orange;
 }
 
 
@@ -61,15 +147,10 @@ body {
 	margin-left: -80px;
 	width: 1800px;
 	height: 6px;
-	background: red;
+	background: black;
 }
 
 
-.scanlines {
-	position: relative;
-	margin-left: -50px;
-	margin-top: 90px;
-}
 
 
 
@@ -544,6 +625,16 @@ body {
 	float: left;
 }
 
+.zero {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+
 .one {
 	position: relative;
 	background: none;
@@ -560,6 +651,97 @@ body {
 	float: left;
 }
 
+.three {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.four {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.five {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.six {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.seven {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.eight {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.nine {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.mark {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.question {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.period {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.space {
+	position: relative;
+	background: none;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
 
 
 
