@@ -25,66 +25,82 @@ body {
 
 
 .hello {
-	top:150px;
+	top:870px;
 	left: 70px;
 	position: absolute;
 }
 
 .there {
-	top:56px;
+	top:876px;
 	left: 70px;
 	position: absolute;
 }
 
-.mynameis {
-	top: 200px;
+.iyvette {
+	top: 1010px;
 	left: 70px;
 	position: absolute;
 }
 
-.yvettenakamoto {
-	top:206px;
+.am {
+	top: 1016px;
+	left: 70px;
+	position: absolute;
+}
+
+
+
+.yvette {
+	top: 1150px;
+	left: 70px;
+	position: absolute;
+}
+
+.nakamoto {
+	top: 1156px;
 	left: 70px;
 	position: absolute;
 }
 
 
 .this {
-	top: 350px;
+	top: 1300px;
 	left: 70px;
 	position: absolute;
 }
 
 .ismy {
-	top: 356px;
+	top: 1306px;
 	left: 70px;
 	position: absolute;
 }
 
 
 .between {
-	top: 500px;
+	top: 1450px;
 	left: 70px;
 	position: absolute;
 }
 
 .thelines {
-	top: 506px;
+	top: 1456px;
 	left: 70px;
 	position: absolute;
 }
 
-.interactivetwo {
-	top: 650px;
+
+.css {
+	top: 1600px;
 	left: 70px;
 	position: absolute;
-}
+} 
 
 .typeface {
-	top: 656px;
+	top: 1606px;
 	left: 70px;
 	position: absolute;
 }
+
 
 
 
@@ -107,7 +123,7 @@ body {
 
 
 .letter {
-	margin-left: 20px;
+	margin-left: 10px;
 	margin-bottom: 20px;
 }
 
@@ -685,6 +701,7 @@ body {
 	height: 120px;
 	float: left;
 }
+
 .mark {
 	position: relative;
 	background: none;
@@ -708,6 +725,7 @@ body {
 	height: 120px;
 	float: left;
 }
+
 
 .space {
 	position: relative;
